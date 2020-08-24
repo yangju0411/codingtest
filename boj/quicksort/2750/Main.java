@@ -8,6 +8,7 @@ N개의 수가 주어졌을 때 이를 오름차순으로 정렬하는 문제
 
 // 퀵 정렬로 문제 풀기, 자바 사용
 
+// 퀵소트는 재귀가 필요하기 때문에 메소드로 구현함
 import java.util.Scanner;
 
 public class Main {
